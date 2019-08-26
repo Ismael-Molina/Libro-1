@@ -9,5 +9,5 @@ class persona {
         console.log("Hola, yo soy " + this.nombre+ "!");
     }
 }
-let persona1 = new persona("leono");
+let persona1 = new persona("l");
 persona1.introduccion();
